@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WypozyczalniaKsiazek", "WypozyczalniaKsiazek\WypozyczalniaKsiazek.csproj", "{AAA03EEC-193C-41F2-94A4-F3E778AB4E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA03EEC-193C-41F2-94A4-F3E778AB4E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA03EEC-193C-41F2-94A4-F3E778AB4E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA03EEC-193C-41F2-94A4-F3E778AB4E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA03EEC-193C-41F2-94A4-F3E778AB4E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D49840-322E-48DE-9DA2-4FEBDA239C3C}
+	EndGlobalSection
+EndGlobal
